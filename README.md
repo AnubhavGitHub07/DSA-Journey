@@ -28,18 +28,5 @@ Each folder contains topic-wise problems, solutions, and notes that I’m buildi
   <li>Prepare for coding interviews and competitive programming.</li>
 </ul>
 
----
 
-<h2>📂 Repository Structure</h2>
-
-<pre>
-DSA-Journey/
-│
-├── Arrays/
-│   ├── TwoSum.cpp
-│   ├── MaxSubarray.cpp
-│   └── Notes.md
-│
-├── Strings/
-│
 
